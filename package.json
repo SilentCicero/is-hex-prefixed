@@ -10,7 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/silentcicero/is-hex-prefixed.git"
+    "url": "git+ssh://git@github.com/SilentCicero/is-hex-prefixed.git"
+  },
+  "engines": {
+    "npm": ">=3",
+    "node": ">=6.5.0"
   },
   "keywords": [
     "is",
@@ -23,9 +27,9 @@
   "author": "Nick Dodson <thenickdodson@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/silentcicero/is-hex-prefixed/issues"
+    "url": "https://github.com/SilentCicero/is-hex-prefixed/issues"
   },
-  "homepage": "https://github.com/silentcicero/is-hex-prefixed#readme",
+  "homepage": "https://github.com/SilentCicero/is-hex-prefixed#readme",
   "devDependencies": {
     "chai": "3.5.0",
     "mocha": "3.2.0",
