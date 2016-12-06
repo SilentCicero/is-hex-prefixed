@@ -13,8 +13,8 @@
   </a>
 
   <!-- Build Status -->
-  <a href="https://travis-ci.org/silentcicero/is-hex-prefixed">
-    <img src="https://travis-ci.org/silentcicero/is-hex-prefixed.svg"
+  <a href="https://travis-ci.org/SilentCicero/is-hex-prefixed">
+    <img src="https://travis-ci.org/SilentCicero/is-hex-prefixed.svg"
     alt="Build Status" />
   </a>
 
@@ -25,8 +25,8 @@
   </a>
 
   <!-- Test Coverage -->
-  <a href="https://coveralls.io/r/silentcicero/is-hex-prefixed">
-    <img src="https://coveralls.io/repos/github/silentcicero/is-hex-prefixed/badge.svg" alt="Test Coverage" />
+  <a href="https://coveralls.io/r/SilentCicero/is-hex-prefixed">
+    <img src="https://coveralls.io/repos/github/SilentCicero/is-hex-prefixed/badge.svg" alt="Test Coverage" />
   </a>
 
   <!-- Javascript Style -->
