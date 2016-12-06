@@ -24,7 +24,6 @@
     alt="NPM version" />
   </a>
 
-  <!-- Test Coverage -->
   <a href="https://coveralls.io/r/SilentCicero/is-hex-prefixed">
     <img src="https://coveralls.io/repos/github/SilentCicero/is-hex-prefixed/badge.svg" alt="Test Coverage" />
   </a>
